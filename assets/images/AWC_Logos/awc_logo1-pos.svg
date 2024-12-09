@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1876.02 267.44">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #010101;
+        stroke: #818181;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #231f20;
+        font-family: Industry-Ultra, Industry;
+        font-size: 163px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        fill: #ffca06;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(286.3 206.8)"><tspan class="cls-1" x="0" y="0">ARM</tspan><tspan class="cls-8" x="359.25" y="0">Y</tspan><tspan class="cls-2" x="461.12" y="0"> </tspan><tspan class="cls-6" x="499.75" y="0">W</tspan><tspan class="cls-1" x="639.77" y="0">AR COLL</tspan><tspan class="cls-4" x="1290.13" y="0">E</tspan><tspan class="cls-1" x="1386.14" y="0">GE</tspan></text>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <path class="cls-3" d="m209.03,54.08l-83.49-28.46h-.92l-83.39,28.46c-19.11,139.46,73.19,172.63,84.31,175.78,0,0,102.6-36.32,83.49-175.78Z"/>
+    <path class="cls-7" d="m134.77.33c-11.58,20.67-24.91,42.68-36.68,59.21-9.65,13.56-18.02,23.9-14.16,43.92-4-14.15-5.75-24.59-18.02-33.58,9.81,20.53-6.13,44.34-1.51,66.34,4.21,20.04,25.17,49.41,48.48,47.33-16.26-6.54-25.63-26.11-19.3-42.62,2.42,8.69,9.44,15.34,16.73,19.38-6.21-16.18-12.84-31.54-8.69-49.73,4.3-18.82,14.14-35.55,22.97-50.99,0,14.25,1.03,41.66,6.47,55.03,6.21,15.24,19.59,20.48,15.28-2.74,26.95,17.97,15.87,59.76-7.72,74.92,37.65-12.25,45.5-44.28,32.6-81.04-12.83-36.58-44.09-63-36.45-105.41Z"/>
+  </g>
+</svg>
