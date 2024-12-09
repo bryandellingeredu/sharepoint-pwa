@@ -1,7 +1,7 @@
 {
   "name": "Alumni Connect",
   "short_name": "Alumni",
-  "start_url": "/sharepoint-pwa/index.html",
+  "start_url": "https://bryandellingeredu.github.io/sharepoint-pwa/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0078d4",
