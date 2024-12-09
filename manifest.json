@@ -1,6 +1,6 @@
 {
-  "name": "Alumni Connect",
-  "short_name": "Alumni",
+  "name": "SSL",
+  "short_name": "SSL",
   "start_url": "https://bryandellingeredu.github.io/sharepoint-pwa/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
